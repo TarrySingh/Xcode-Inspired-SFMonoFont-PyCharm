@@ -1,4 +1,4 @@
-# Xcode-Inspired-SFMonoFont-PyCharm
+# Xcode Inspired Theme and SFMono Font for PyCharm
 Install Xcode Inspired them and then install SFMono font
 
 I really love the Xcode look and feel. It's subtle and sleek. At WWDC 2016 last year, Apple unveiled a brand new font called San Francisco. The font went on to become the default font in macOS and iOS, replacing Helvetica (which replaced Lucida Sans). On watchOS, a special Compact variant of San Francisco, was used.
@@ -14,6 +14,8 @@ Anyways, you can do it to in three simple steps.
 
 
 ### Step 2: Install SFMono and then replace it in your Pycharm
+
+Surprisingly this font <b>*does*</b> exist on your Macbook but its hidden in your Terminal.app! Here's how to get it
 
 #### Step 2.1 Installing it in your Mac
 
